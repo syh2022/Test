@@ -12,6 +12,7 @@ public class TestDemo {
 		System.out.println("TestDemo");
 		ArrayList<String> list = new ArrayList<String>();
 		list.add("aaaa");
+		list.dadd("bbb");
 	}
 
 }
